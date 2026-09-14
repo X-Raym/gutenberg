@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+### Bug Fixes
+
+-   Install Xdebug 3.1.6, the last release that supports PHP 7, when the environment uses PHP 7, instead of the latest release, which requires PHP 8 ([#50490](https://github.com/WordPress/gutenberg/pull/50490)).
+
 ## 4.0.3 (2021-04-29)
 
 ### Bug Fix
