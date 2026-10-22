@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+### Enhancements
+
+-   `WidgetHeader`: Use the help icon for infotips ([#85309](https://github.com/WordPress/gutenberg/pull/85309)).
+
 ## 0.10.0 (2026-10-20)
 
 ### Breaking Changes
