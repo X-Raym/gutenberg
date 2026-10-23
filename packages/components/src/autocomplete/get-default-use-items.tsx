@@ -94,7 +94,7 @@ export default function getDefaultUseItems(
 							'(?:\\b|\\s|^)' + escapeRegExp( filterValue ),
 							'i'
 						);
-						setItems( filterOptions( search, keyedOptions ) );
+						setItems( filterOptions( search, keyedOptions, autocompleter.maxResults ) );
 					} );
 
 					return promise;
