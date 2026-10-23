@@ -1,0 +1,1 @@
+import{t as m}from"./iframe-CuC1i_Gy.js";m();
